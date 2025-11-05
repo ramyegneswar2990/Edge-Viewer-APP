@@ -179,7 +179,7 @@ This project includes comprehensive documentation:
 
 ## Andriod
 ![WhatsApp Image 2025-11-05 at 16 20 04_7b0593ab](https://github.com/user-attachments/assets/a78459af-3390-4d0a-97d0-ef7daad7f980)
-![WhatsApp Image 2025-11-05 at 16 20 04_36944513](https://github.com/user-attachments/assets/8675e441-02b0-4dd1-909e-b4dd1e52890a)
+![WhatsApp Image 2025-11-05 at 16 24 20_3fa0a59e](https://github.com/user-attachments/assets/ef7d0797-fbc4-4461-bc3c-7b45be882a0f)
 
 
 
