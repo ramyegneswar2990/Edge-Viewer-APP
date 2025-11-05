@@ -178,10 +178,10 @@ This project includes comprehensive documentation:
 <img width="1864" height="973" alt="Screenshot 2025-10-08 000106" src="https://github.com/user-attachments/assets/54ca7cf8-10bb-4532-9a96-7887e4cbf960" />
 
 ## Andriod
-![WhatsApp Image 2025-10-08 at 03 11 53_e729fe51](https://github.com/user-attachments/assets/52b30acf-7809-4d3d-915f-f27a939a3820)
-![WhatsApp Image 2025-10-08 at 00 00 51_14ff521c](https://github.com/user-attachments/assets/e9253b56-42ed-4183-abc2-790f8bfeaa52)
-![WhatsApp Image 2025-10-08 at 00 00 51_bd54ac5e](https://github.com/user-attachments/assets/57e45b45-4e74-41ae-98d8-0670223a7fbb)
-![WhatsApp Image 2025-10-08 at 00 00 50_d779ceaa](https://github.com/user-attachments/assets/ae07f940-5d8e-489b-a22b-4dd5e09679d0)
+![WhatsApp Image 2025-11-05 at 16 20 04_7b0593ab](https://github.com/user-attachments/assets/a78459af-3390-4d0a-97d0-ef7daad7f980)
+![WhatsApp Image 2025-11-05 at 16 20 04_36944513](https://github.com/user-attachments/assets/8675e441-02b0-4dd1-909e-b4dd1e52890a)
+
+
 
 
 
